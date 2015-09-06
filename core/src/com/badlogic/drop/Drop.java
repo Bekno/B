@@ -52,7 +52,7 @@ public class Drop implements ApplicationListener {
 		//dropSound = Gdx.audio.newSound(Gdx.files.internal("drop.wav"));
 		//rainMusic = Gdx.audio.newMusic(Gdx.files.internal("rain.mp3"));
 
-		// start the playback of the background music immediately
+		// start the playback of the  background music immediately
 		//rainMusic.setLooping(true);
 		//rainMusic.play();
 
